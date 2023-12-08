@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="favorito">Marcar Favorito</string>
+    <string name="tel">Telefono</string>
+    <string name="tel2">Telefono Movil</string>
+    <string name="notas">Escribir comentarios</string>
+    <string name="direccion">Direccion</string>
+    <string name="nombre">Nombre</string>
+    <string name="texto">Elementos de la agenda</string>
+    <string name="mensaje">Contacto guardo con exito</string>
+    <string name="mensajeError">Favor de llenar los datos</string>
+    <string name="mensajeEdit">Contacto Actualizado con exito</string>
+    <string name="btnNuevo">Nuevo</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnLimpiar">Limpiar</string>
+</resources>
